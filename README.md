@@ -25,16 +25,17 @@ building tech at the intersection of **AI, climate, and energy systems**
 | 3 | Intel AI Hackathon | 1st Place |
 | 4 | YUVAI National Hackathon by Govt of India 2023 | National Awardee |
 | 5 | Innovate to Renovate Hackathon | 1st Place
-| 6 | Hack4Earth | 3rd Place |
-| 7 | Code Red 2.0 Youth Ideathon | Runner up |
-| 8 | Learn IT Global Hackathon V2 | 2nd Place |
-| 9 | Plant a Change Hackathon | Judge's Choice Award |
-| 10 | PoweringSTEMHacks2 | Best Theme Hack |
-| 11 | All Inclusive Hacks | Top Miscellaneous Hackathon Projects Relevant to Inclusivity |
-| 12 | Smart India Hackathon 2023 | Top 5 (School Category) |
-| 13 | Learn IT Global Hackathon V1 | Top 10 |
-| 14 | Insinio Hacks | Best AI Use |
-| 15 | CS Base Climate Hack | Best Wolfram Award |
+| 6 | Code Red 2.0 National Ideathon | Runner up |
+| 7 | Insinip Hacks | 2rd Place |
+| 8 | Hack4Earth | 3rd Place |
+| 9 | Learn IT Global Hackathon V2 | 2nd Place |
+| 10 | Plant a Change Hackathon | Judge's Choice Award |
+| 11 | PoweringSTEMHacks2 | Best Theme Hack |
+| 12 | All Inclusive Hacks | Top Miscellaneous Hackathon Projects Relevant to Inclusivity |
+| 13 | Smart India Hackathon 2023 | Top 5 (School Category) |
+| 14 | Learn IT Global Hackathon V1 | Top 10 |
+| 15 | Insinio Hacks | Best AI Use |
+| 16 | CS Base Climate Hack | Best Wolfram Award |
 
 
 ---
