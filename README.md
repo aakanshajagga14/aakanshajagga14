@@ -26,7 +26,7 @@ building tech at the intersection of **AI, climate, and energy systems**
 | 4 | YUVAI National Hackathon by Govt of India 2023 | National Awardee |
 | 5 | Innovate to Renovate Hackathon | 1st Place
 | 6 | Hack4Earth | 3rd Place |
-| 7 | CodeRED National Hackathon | Runner up |
+| 7 | Code Red 2.0 Youth Ideathon | Runner up |
 | 8 | Learn IT Global Hackathon V2 | 2nd Place |
 | 9 | Plant a Change Hackathon | Judge's Choice Award |
 | 10 | PoweringSTEMHacks2 | Best Theme Hack |
