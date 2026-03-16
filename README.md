@@ -4,8 +4,7 @@ AI × Climate Tech Builder
 Founder @ **Joulewise** — building AI systems for renewable energy adoption
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakansha_Jagga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakansha-jagga-0aa10527a/)
-[![Devpost](https://img.shields.io/badge/Devpost-hackathons-003E54?style=for-the-badge&logo=devpost&logoColor=white)]([https://devpost.com/](https://devpost.com/aakanshajagga14?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
-[![GitHub followers](https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge)](https://github.com/aakanshajagga14)
+[![Devpost](https://img.shields.io/badge/Devpost-hackathons-003E54?style=for-the-badge&logo=devpost&logoColor=white)]([https://devpost.com/](https://devpost.com/aakanshajagga14?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)(https://devpost.com/aakanshajagga-work/)
 
 <!--STARS_START-->
 ![Total Stars](https://img.shields.io/badge/total__stars-auto-blueviolet?style=for-the-badge&logo=github)
@@ -19,10 +18,22 @@ building tech at the intersection of **AI, climate, and energy systems**
 
 | # | event | result |
 |---|------|-------|
-| 1 | Harvard Hackathon | Winner |
-| 2 | ISEF – International Science & Engineering Fair | Represented India |
-| 3 | IRIS National Science Fair | Finalist |
-| 4 | Multiple university hackathons | AI + sustainability projects |
+| 1 | India AI Impact Festival 2025 | National Winner |
+| 2 | Harvard-Duke Joint Hackathon | Best AI Use + Product Design + Product Demo Award |
+| 3 | Intel AI Student Community Hackathon | 1st Place |
+| 4 | YUVAI National Hackathon by Govt of India 2023 | National Awardee |
+| 5 | Innovate to Renovate Hackathon | 1st Place
+| 6 | Hack4Earth | 3rd Place |
+| 7 | CodeRED National Hackathon | Runner up |
+| 8 | Learn IT Global Hackathon V2 | Top 10 |
+| 9 | Plant a Change Hackathon | Judge's Choice Award |
+| 10 | Learn IT Global Hackathon V1 | Top 10 |
+| 11 | Insinio Hacks | Best AI Use |
+| 12 | CS Base Climate Hack | Best Wolfram Award |
+| 13 | PoweringSTEMHacks2 | Best Theme Hack |
+| 14 | All Inclusive Hacks | Top Miscellaneous Hackathon Projects Relevant to Inclusivity |
+| 15 | Smart India Hackathon 2023 | Top 5 (School Category) |
+
 
 ---
 
