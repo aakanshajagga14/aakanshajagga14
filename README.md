@@ -22,7 +22,7 @@ building tech at the intersection of **AI, climate, and energy systems**
 |---|------|-------|
 | 1 | India AI Impact Festival 2025 | National Winner |
 | 2 | Harvard-Duke Joint Hackathon | Best AI Use + Product Design + Product Demo Award |
-| 3 | Intel AI Student Community Hackathon | 1st Place |
+| 3 | Intel AI Hackathon | 1st Place |
 | 4 | YUVAI National Hackathon by Govt of India 2023 | National Awardee |
 | 5 | Innovate to Renovate Hackathon | 1st Place
 | 6 | Hack4Earth | 3rd Place |
