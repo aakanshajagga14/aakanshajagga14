@@ -1,7 +1,7 @@
 # hey, i'm aakansha 👋
 
 AI × Climate Tech Builder  
-Founder @ **Joulewise** — building AI systems for renewable energy adoption
+Founder @ **Joulewise** — building AI systems for renewable energy adoption | AI Intern – **IBM & 1M1B** | Research Intern – **Stanford University** | Do hackathons for fun
 
 <p align="center">
 
