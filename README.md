@@ -71,14 +71,6 @@ hosted renewable energy workshops across rural India
 
 ---
 
-## 📊 github stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
-
----
-
 ## random facts
 
 - obsessed with **AI for climate tech**
