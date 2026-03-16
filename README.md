@@ -79,4 +79,4 @@ hosted renewable energy workshops across rural India
 
 ---
 
-if you made it this far you're definitely stalking my github 👀
+if you made it this far you're definitely stalking my github
