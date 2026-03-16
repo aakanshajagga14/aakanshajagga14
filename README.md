@@ -27,14 +27,14 @@ building tech at the intersection of **AI, climate, and energy systems**
 | 5 | Innovate to Renovate Hackathon | 1st Place
 | 6 | Hack4Earth | 3rd Place |
 | 7 | CodeRED National Hackathon | Runner up |
-| 8 | Learn IT Global Hackathon V2 | Top 10 |
+| 8 | Learn IT Global Hackathon V2 | 2nd Place |
 | 9 | Plant a Change Hackathon | Judge's Choice Award |
-| 10 | Learn IT Global Hackathon V1 | Top 10 |
-| 11 | Insinio Hacks | Best AI Use |
-| 12 | CS Base Climate Hack | Best Wolfram Award |
-| 13 | PoweringSTEMHacks2 | Best Theme Hack |
-| 14 | All Inclusive Hacks | Top Miscellaneous Hackathon Projects Relevant to Inclusivity |
-| 15 | Smart India Hackathon 2023 | Top 5 (School Category) |
+| 10 | PoweringSTEMHacks2 | Best Theme Hack |
+| 11 | All Inclusive Hacks | Top Miscellaneous Hackathon Projects Relevant to Inclusivity |
+| 12 | Smart India Hackathon 2023 | Top 5 (School Category) |
+| 13 | Learn IT Global Hackathon V1 | Top 10 |
+| 14 | Insinio Hacks | Best AI Use |
+| 15 | CS Base Climate Hack | Best Wolfram Award |
 
 
 ---
