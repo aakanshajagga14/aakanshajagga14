@@ -4,7 +4,7 @@ AI × Climate Tech Builder
 Founder @ **Joulewise** — building AI systems for renewable energy adoption
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakansha_Jagga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakansha-jagga-0aa10527a/)
-[![Devpost](https://img.shields.io/badge/Devpost-hackathons-003E54?style=for-the-badge&logo=devpost&logoColor=white)]([https://devpost.com/](https://devpost.com/aakanshajagga14?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[![Devpost](https://img.shields.io/badge/Devpost-hackathons-003E54?style=for-the-badge&logo=devpost&logoColor=white)]([[https://devpost.com/]](https://devpost.com/aakanshajagga14?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 Other devpost account: (https://devpost.com/aakanshajagga-work/)
 
